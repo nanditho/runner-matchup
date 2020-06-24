@@ -69,3 +69,5 @@ C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\bin\Debug\netcoreapp3.
 C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\teddy\Documents\dating_app_angular\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.genruntimeconfig.cache
